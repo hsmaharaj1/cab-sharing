@@ -1,0 +1,12 @@
+.login-cont{
+    padding: 5rem;
+    border-radius: 2rem;
+    background-color: rgba(253, 239, 249, 0.3);
+    display: flex;
+    justify-content: center;
+    width: 15rem;
+    height: 5rem;
+    align-items: center;
+    flex-direction: column;
+    z-index: 1;
+  }
